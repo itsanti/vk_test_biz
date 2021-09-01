@@ -1,0 +1,23 @@
+:root {
+  --black: #000;
+  --black_alpha40: #0006;
+  --black_alpha56: rgba(0, 0, 0, 0.56);
+  --black_alpha70: #000000b3;
+
+
+  --light-text-secondary: #818C99;
+  --nav-accent: #3F8AE0;
+  --alternate: #E7E8EC;
+
+}
+
+*, ::after, ::before {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-size: 13px;
+  line-height: 1.154;
+}
