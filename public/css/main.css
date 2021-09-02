@@ -67,10 +67,11 @@
 
 .header__user-auth {
     display: flex;
-    border: 1px solid black;
+    border: 1px solid var(--nav-accent);
     align-items: center;
-    justify-content: flex-end;
+    justify-content: center;
     width: 179px;
+    height: 40px;
 }
 
 @media (max-width: 954px) {
